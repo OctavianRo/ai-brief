@@ -11,6 +11,11 @@ on:
       - 'pyproject.toml'
       - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
+    inputs:
+      existing_edition:
+        description: 'Publish existing illustrated stories without new API calls'
+        type: boolean
+        default: false
   schedule:
     - cron: '0 3,7,11,15,19,23 * * *'
       timezone: 'Europe/Dublin'
@@ -38,10 +43,14 @@ jobs:
       - name: Test news reader and static export
         run: python -m unittest discover -s ai_news_tests -v
       - name: Refresh publisher feeds and build site
+        if: ${{ !inputs.existing_edition }}
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           AI_IMAGE_MODEL: ${{ vars.AI_IMAGE_MODEL }}
         run: python -m ai_news.build_site --refresh --generate-artwork
+      - name: Publish existing illustrated edition
+        if: ${{ inputs.existing_edition }}
+        run: python -m ai_news.build_site --illustrated-only
       - name: Preserve news for the next refresh
         if: ${{ !cancelled() }}
         run: |

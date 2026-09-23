@@ -73,3 +73,5 @@ The job generates at most 12 missing images per run, newest first. This bounds a
 If the key is missing, publication stops and the existing site stays live. Individual generation failures hold back those articles while other illustrated stories can publish. No placeholder is treated as a generated image. Initial 34 PNG illustrations remain supported alongside generated WebP files.
 
 Tests mock the API (no paid calls) to verify the request format, response validation, caching, batch limits, missing credentials, and exclusion of unillustrated articles. A real API generation still needs to be verified after the secret is configured.
+
+To publish the already illustrated edition before API credentials are configured, manually run the workflow with **existing_edition** enabled. This performs no feed refresh or image API calls and excludes stories without artwork. Scheduled runs continue to require the API key for new images. The site is hosted at https://octavianro.github.io/ai-brief/.

@@ -60,6 +60,7 @@ def main():
     parser.add_argument('--output', type=Path, default=Path('_site'))
     parser.add_argument('--refresh', action='store_true')
     parser.add_argument('--generate-artwork', action='store_true')
+    parser.add_argument('--illustrated-only', action='store_true', help='Publish existing illustrated stories without API calls')
     parser.add_argument('--max-images', type=int, default=12)
     args = parser.parse_args()
     previous = json.loads(args.snapshot.read_text()) if args.snapshot.exists() else {}
@@ -72,8 +73,9 @@ def main():
         args.snapshot.parent.mkdir(parents=True, exist_ok=True)
         args.snapshot.write_text(json.dumps(snapshot, ensure_ascii=False, indent=2) + '\n')
     publication = snapshot
-    if args.generate_artwork:
-        manifest = ensure_artwork(snapshot['articles'], STATIC / 'artwork', args.max_images)
+    if args.generate_artwork or args.illustrated_only:
+        manifest = (ensure_artwork(snapshot['articles'], STATIC / 'artwork', args.max_images)
+                    if args.generate_artwork else json.loads((STATIC / 'artwork' / 'manifest.json').read_text()))
         illustrated = [a for a in snapshot['articles'] if has_artwork(a['id'], manifest, STATIC / 'artwork')]
         pending = len(snapshot['articles']) - len(illustrated)
         print(f'{pending} stories awaiting artwork; held back until illustrated')
