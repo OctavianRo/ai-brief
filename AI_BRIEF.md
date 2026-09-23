@@ -64,7 +64,7 @@ Build locally with `.venv/bin/python -m ai_news.build_site` (cached snapshot) or
 
 ## Automatic artwork setup
 
-Add a repository Actions secret named `OPENAI_API_KEY` at https://github.com/OctavianRo/GeneralNewsExtractor/settings/secrets/actions. Use an OpenAI API project with billing and image-model access. Never commit the key or paste it into a workflow file. Then manually run **Refresh and publish AI Brief** in the Actions tab to verify the first generation; the existing four-hour schedule handles later updates.
+Add a repository Actions secret named `OPENAI_API_KEY` at https://github.com/OctavianRo/ai-brief/settings/secrets/actions. Use an OpenAI API project with billing and image-model access. Never commit the key or paste it into a workflow file. Then manually run **Refresh and publish AI Brief** in the Actions tab to verify the first generation; the existing four-hour schedule handles later updates.
 
 The default model is `gpt-image-2.5-flare` at medium quality, 1536×1024, with compressed WebP output. Set the repository variable `AI_IMAGE_MODEL` to change the model. See the [OpenAI image generation documentation](https://developers.openai.com/api/docs/guides/image-generation). API image generation is separately billed.
 

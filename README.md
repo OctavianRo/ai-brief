@@ -1,6 +1,10 @@
-# AI Brief app
+# AI Brief
 
-This checkout includes a local AI news reader built around GNE. See [AI_BRIEF.md](AI_BRIEF.md) for setup, features, and model limitations.
+An illustrated AI news reader with publisher feeds, topic filters, saved stories, and scheduled GitHub Pages publishing. Built on GeneralNewsExtractor.
+
+See [AI_BRIEF.md](AI_BRIEF.md) for setup, the four-hour Dublin-time refresh schedule, and automatic illustration configuration. Add `OPENAI_API_KEY` in this repository’s GitHub Actions secrets before enabling live image generation.
+
+The original extractor documentation and attribution are retained below.
 
 # GNE (GeneralNewsExtractor)
 
