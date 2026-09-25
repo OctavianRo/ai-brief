@@ -145,6 +145,24 @@
       "summary": "It’s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent\nappears to be an early hit\n."
     },
     {
+      "id": "7dabc9cc4827117b81e0e59f",
+      "title": "Meta’s Muse AI Charms can interact with each other",
+      "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+      "source": "The Verge",
+      "published": "2026-09-24T13:31:43+00:00",
+      "topic": "Products & tools",
+      "summary": "The Muse Charm houses the\ncompany's buzzy Muse AI agent\nand comes with a built-in 5G modem, meaning you won't need to connect to Wi-Fi to interact with the AI agent, according to\nBloomberg\n. It will come with a two-inch OLED touchscreen, a new operating system, and a fingerprint sensor you can use to start interacting with Muse AI."
+    },
+    {
+      "id": "657c98f37505a09b2675181c",
+      "title": "Everything is spying on you and there’s no opting out",
+      "url": "https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance",
+      "source": "The Verge",
+      "published": "2026-09-24T13:30:00+00:00",
+      "topic": "Policy & safety",
+      "summary": "Mark Zuckerberg, chief executive officer of Meta Platforms Inc., wears a pair of Meta Ray-Ban Display AI glasses during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025. | Bloomberg via Getty Images\nEarlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken…"
+    },
+    {
       "id": "0655c35997dfdd457cff23de",
       "title": "Australia to investigate if OpenAI hack of government health website broke the law",
       "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
@@ -152,6 +170,24 @@
       "published": "2026-09-24T12:54:19+00:00",
       "topic": "Policy & safety",
       "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable."
+    },
+    {
+      "id": "a3941e1cfa7254154db52c18",
+      "title": "OpenAI agents hacked an Australian government website in search of data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "source": "The Verge",
+      "published": "2026-09-24T11:52:32+00:00",
+      "topic": "Products & tools",
+      "summary": "Speaking on the sidelines of the UN General Assembly in New York, Australian Prime Minister Anthony Albanese\nsaid\nan agent from the American AI lab \"infiltrated\" Australia's Medicare statistics portal and \"accessed both public and non-public file …"
+    },
+    {
+      "id": "549242f464f73413bf653c64",
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "source": "The Verge",
+      "published": "2026-09-24T09:04:18+00:00",
+      "topic": "Models & research",
+      "summary": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with\nThe Information\nduring his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is aiming to…"
     },
     {
       "id": "364e76eaa6a6943f81b0cf2f",
@@ -553,19 +589,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-24T21:07:28.072313+00:00",
+      "checked": "2026-09-25T00:15:38.434788+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-24T21:07:28.072313+00:00",
+      "checked": "2026-09-25T00:15:38.434788+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-24T21:07:28.072313+00:00",
+      "checked": "2026-09-25T00:15:38.434788+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-24T21:07:28.072313+00:00"
+  "updated": "2026-09-25T00:15:38.434788+00:00"
 }
