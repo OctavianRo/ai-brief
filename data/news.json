@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "ff3979163f0a6a79e8f18c6f",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "TechCrunch",
+      "published": "2026-09-25T05:00:00+00:00",
+      "topic": "Business",
+      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+    },
+    {
+      "id": "4b0e8d72e3ff9980033f6bd7",
+      "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge",
+      "published": "2026-09-24T19:59:26+00:00",
+      "topic": "Models & research",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The\n\"Live Avatar\" will lip-sync\nand show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers."
+    },
+    {
       "id": "30290d8cdac77d28ad1c1aa2",
       "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
       "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
@@ -589,19 +607,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-09-25T00:15:38.434788+00:00",
+      "checked": "2026-09-25T07:05:54.120790+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-09-25T00:15:38.434788+00:00",
+      "checked": "2026-09-25T07:05:54.120790+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-09-25T00:15:38.434788+00:00",
+      "checked": "2026-09-25T07:05:54.120790+00:00",
       "error": null
     }
   ],
-  "updated": "2026-09-25T00:15:38.434788+00:00"
+  "updated": "2026-09-25T07:05:54.120790+00:00"
 }
