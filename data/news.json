@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "3c49c40e0ec38e267dc70e67",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "published": "2026-10-03T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
       "id": "5671402926db891c3047aac7",
       "title": "Sean Parker is rebuilding Stability AI around music",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
@@ -1759,19 +1768,19 @@
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-03T07:33:40.711358+00:00",
+      "checked": "2026-10-03T14:33:29.209771+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-03T07:33:40.711358+00:00",
+      "checked": "2026-10-03T14:33:29.209771+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-03T07:33:40.711358+00:00",
+      "checked": "2026-10-03T14:33:29.209771+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-03T07:33:40.711358+00:00"
+  "updated": "2026-10-03T14:33:29.209771+00:00"
 }
