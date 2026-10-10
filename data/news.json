@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "b9dc0d5943c84ce635f67f89",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch",
+      "published": "2026-10-10T19:50:00+00:00",
+      "topic": "Business",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+    },
+    {
+      "id": "6d57a260d9ad3ce2f42a8b41",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "source": "The Verge",
+      "published": "2026-10-10T18:52:07+00:00",
+      "topic": "Policy & safety",
+      "summary": "Artists are\ntaking\nto\nsocial media\nto\ncomplain\nthat DistroKid has\nunceremoniously removed\ntheir work without notice. Now DistroKid has confirmed to\nThe Verge\nthat the takedowns are a direct response to claims made by UMG."
+    },
+    {
+      "id": "818f4dcf830d117b3a347d0a",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge",
+      "published": "2026-10-10T14:41:16+00:00",
+      "topic": "Policy & safety",
+      "summary": "Although the impact of these behaviors was minimal and we had already turned off live internet access for some high-risk and cybersecurity evaluations, we have now decided to expand that to include all our internal evaluations until we have confirmed that our security and monitoring measures (described in the remediation section …"
+    },
+    {
       "id": "a0f6e38f65e9c89ba13dd047",
       "title": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -8,6 +35,15 @@
       "published": "2026-10-10T14:00:00+00:00",
       "topic": "Products & tools",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
+      "id": "c9390824224ecd5bf3e13e60",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "source": "The Verge",
+      "published": "2026-10-10T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. Yet Muse itself, a couple of months earlier, had…"
     },
     {
       "id": "6fafcbf095655c1fbd8b661b",
@@ -2663,33 +2699,24 @@
       "published": "2026-09-15T17:47:51+00:00",
       "topic": "Products & tools",
       "summary": "Listen to the session or watch below\nEmployees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right?"
-    },
-    {
-      "id": "78db0f3b5384c1feb8137c36",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-15T10:00:00+00:00",
-      "topic": "Business",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called hyperscalers are investing…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-10T15:41:04.020879+00:00",
+      "checked": "2026-10-10T21:08:05.893710+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-10T15:41:04.020879+00:00",
+      "checked": "2026-10-10T21:08:05.893710+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-10T15:41:04.020879+00:00",
+      "checked": "2026-10-10T21:08:05.893710+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-10T15:41:04.020879+00:00"
+  "updated": "2026-10-10T21:08:05.893710+00:00"
 }
