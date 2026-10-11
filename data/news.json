@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "27abcf7051e177f24b51149f",
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "published": "2026-10-11T14:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
+    },
+    {
+      "id": "a439fdc2654eaaf3ce0c2970",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "source": "The Verge",
+      "published": "2026-10-11T11:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "Baby’s first local AI agent. | Photo: Antonio G."
+    },
+    {
       "id": "47aa66d1b4eb0050da8553d1",
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
@@ -2681,42 +2699,24 @@
       "published": "2026-09-22T11:04:51+00:00",
       "topic": "Models & research",
       "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic\nclaimed\nthat its model Claude Mythos is better at finding software vulnerabilities than most security experts."
-    },
-    {
-      "id": "863001221a0509f1425f3708",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-21T12:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked."
-    },
-    {
-      "id": "b491d63c1a336d842dd6e3be",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-18T11:29:22+00:00",
-      "topic": "Products & tools",
-      "summary": "The first is that we barely understand how AI works, and it’s quickly growing more powerful. There is lots of ongoing research about how to monitor and control misbehaving agents, but the current approaches are fragile."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-11T08:15:56.718380+00:00",
+      "checked": "2026-10-11T16:08:08.495265+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-11T08:15:56.718380+00:00",
+      "checked": "2026-10-11T16:08:08.495265+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-11T08:15:56.718380+00:00",
+      "checked": "2026-10-11T16:08:08.495265+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-11T08:15:56.718380+00:00"
+  "updated": "2026-10-11T16:08:08.495265+00:00"
 }
