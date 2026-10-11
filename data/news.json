@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "10ff9df7a5585aaf706ba8d3",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "source": "The Verge",
+      "published": "2026-10-11T18:33:56+00:00",
+      "topic": "AI overview",
+      "summary": "That Elon Musk was\nquick to jump on board\n, promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highly accepted new and more accurate term, 'Super I …"
+    },
+    {
+      "id": "2ff11c15230d666114622766",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "source": "TechCrunch",
+      "published": "2026-10-11T16:52:33+00:00",
+      "topic": "Hardware",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem."
+    },
+    {
       "id": "27abcf7051e177f24b51149f",
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
@@ -2681,42 +2699,24 @@
       "published": "2026-09-22T14:30:00+00:00",
       "topic": "AI overview",
       "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off."
-    },
-    {
-      "id": "bae54219cda11cdeba5bf2a0",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-22T13:42:05+00:00",
-      "topic": "Business",
-      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a\ngroundbreaking investigation by\nMIT Technology Review\nhas documented over a thousand people who moved through areas watched by these towers without…"
-    },
-    {
-      "id": "5abcd11803083fe364aaff44",
-      "title": "Don’t be fooled by this summer of AI hype",
-      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-      "source": "MIT Technology Review",
-      "published": "2026-09-22T11:04:51+00:00",
-      "topic": "Models & research",
-      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic\nclaimed\nthat its model Claude Mythos is better at finding software vulnerabilities than most security experts."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-11T16:08:08.495265+00:00",
+      "checked": "2026-10-11T21:27:22.393485+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-11T16:08:08.495265+00:00",
+      "checked": "2026-10-11T21:27:22.393485+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-11T16:08:08.495265+00:00",
+      "checked": "2026-10-11T21:27:22.393485+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-11T16:08:08.495265+00:00"
+  "updated": "2026-10-11T21:27:22.393485+00:00"
 }
