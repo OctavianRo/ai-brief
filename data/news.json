@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "7c068c6a83688898d134de1c",
+      "title": "Apple launches HomeView, its first smart display for the home",
+      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+      "source": "The Verge",
+      "published": "2026-10-13T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous."
+    },
+    {
+      "id": "3aa63102ae818b18a9852230",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows."
+    },
+    {
+      "id": "b2fa807e4b0dbdf2380fdbfa",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T12:23:42+00:00",
+      "topic": "Products & tools",
+      "summary": "The startup will sell some of its assets to Disney for $20 million."
+    },
+    {
+      "id": "895674673f7dc47454f0c53d",
+      "title": "Character.AI files for bankruptcy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "source": "The Verge",
+      "published": "2026-10-13T10:32:23+00:00",
+      "topic": "Policy & safety",
+      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and\nlawsuits\nover the\nsafety\nof its\nchatbots\n, but has continued\nreleasing\nupdates and products in…"
+    },
+    {
+      "id": "aa865376889f85c40a597f10",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-13T10:00:00+00:00",
+      "topic": "Models & research",
+      "summary": "MIT Technology Review\nExplains:\nLet our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here\n."
+    },
+    {
+      "id": "a2f578c60a47c5b465b930bd",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-13T09:00:00+00:00",
+      "topic": "Business",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money."
+    },
+    {
       "id": "c4b9d6e880599722b32ca690",
       "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
       "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
@@ -2645,78 +2699,24 @@
       "published": "2026-09-23T04:59:08+00:00",
       "topic": "Policy & safety",
       "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
-    },
-    {
-      "id": "a86391fe9862bd8955da5960",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "source": "The Verge",
-      "published": "2026-09-23T00:17:17+00:00",
-      "topic": "Models & research",
-      "summary": "On Monday, the company\nannounced\na new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise."
-    },
-    {
-      "id": "b25fe2c5917bd4561c8badeb",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T23:21:49+00:00",
-      "topic": "AI overview",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
-    },
-    {
-      "id": "7c67ad98e455c6d4ff949ac5",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T21:56:43+00:00",
-      "topic": "Business",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
-    },
-    {
-      "id": "b55c6cd1054ed866620f7669",
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "source": "The Verge",
-      "published": "2026-09-22T20:52:40+00:00",
-      "topic": "Products & tools",
-      "summary": "According to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task."
-    },
-    {
-      "id": "8ea6cbfd1c9012c5f73deb9a",
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T20:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
-    },
-    {
-      "id": "9b5f327201feff42f9700cc1",
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "source": "TechCrunch",
-      "published": "2026-09-22T19:09:11+00:00",
-      "topic": "Products & tools",
-      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-13T02:49:54.158080+00:00",
+      "checked": "2026-10-13T13:31:54.153033+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-13T02:49:54.158080+00:00",
+      "checked": "2026-10-13T13:31:54.153033+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-13T02:49:54.158080+00:00",
+      "checked": "2026-10-13T13:31:54.153033+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-13T02:49:54.158080+00:00"
+  "updated": "2026-10-13T13:31:54.153033+00:00"
 }
