@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "ef87b05ded13b11f7ce0ed4a",
+      "title": "Epic’s new games launcher is ‘vibe coded’",
+      "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+      "source": "The Verge",
+      "published": "2026-10-14T13:55:02+00:00",
+      "topic": "AI overview",
+      "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was \"vibe coded.\"\n\"Programming is hard,\"\nEpic says in a blog post\n."
+    },
+    {
+      "id": "1cf1a3388554a4ca5909f6f5",
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "source": "TechCrunch",
+      "published": "2026-10-14T11:00:00+00:00",
+      "topic": "Business",
+      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
+    },
+    {
       "id": "7a61b7adbf1be295b08f427f",
       "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
       "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
@@ -2681,42 +2699,24 @@
       "published": "2026-09-24T00:15:20+00:00",
       "topic": "Products & tools",
       "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation."
-    },
-    {
-      "id": "866c5688bd798c2c1cd0dab1",
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T23:39:44+00:00",
-      "topic": "AI overview",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life."
-    },
-    {
-      "id": "a5e35ea59f8666fd88f82da4",
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "source": "The Verge",
-      "published": "2026-09-23T23:37:17+00:00",
-      "topic": "Policy & safety",
-      "summary": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge\nWalking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-14T07:04:56.764881+00:00",
+      "checked": "2026-10-14T14:52:19.215122+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-14T07:04:56.764881+00:00",
+      "checked": "2026-10-14T14:52:19.215122+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-14T07:04:56.764881+00:00",
+      "checked": "2026-10-14T14:52:19.215122+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-14T07:04:56.764881+00:00"
+  "updated": "2026-10-14T14:52:19.215122+00:00"
 }
