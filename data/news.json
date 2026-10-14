@@ -1,13 +1,49 @@
 {
   "articles": [
     {
+      "id": "7a61b7adbf1be295b08f427f",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T23:05:34+00:00",
+      "topic": "Products & tools",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
+    },
+    {
+      "id": "b887f8768cd84d4afa7d76bb",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T22:36:59+00:00",
+      "topic": "Policy & safety",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits."
+    },
+    {
+      "id": "6ec803e44d1742ccbdc9716f",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source": "The Verge",
+      "published": "2026-10-13T20:45:25+00:00",
+      "topic": "Models & research",
+      "summary": "An OpenAI engineer was arrested after\nthe company said it discovered\na \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national."
+    },
+    {
+      "id": "cd5bf687da9d4f13bec3b1af",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T20:36:44+00:00",
+      "topic": "AI overview",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
+    },
+    {
       "id": "f1305662a1d2e7c412f2bf48",
       "title": "Shopify opens its catalog up to more AI agents",
       "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
       "source": "The Verge",
       "published": "2026-10-13T19:42:42+00:00",
       "topic": "Products & tools",
-      "summary": "Shopify announced Tuesday it will let shoppers\nconfigure their AI agents\nto purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists of both items on and off Shopify storefronts.) In September, Shopify\nannounced\nit was partnering with Meta to allow its Muse agent to browse and…"
+      "summary": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images)\nMore AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions."
     },
     {
       "id": "b5a0bcffb5b3a77b578c1081",
@@ -92,7 +128,7 @@
     },
     {
       "id": "8e68e2cc66d400ede70166e4",
-      "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+      "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
       "source": "The Verge",
       "published": "2026-10-13T16:42:51+00:00",
@@ -2663,60 +2699,24 @@
       "published": "2026-09-23T23:37:17+00:00",
       "topic": "Policy & safety",
       "summary": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge\nWalking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes."
-    },
-    {
-      "id": "7a402970f4ce9b22b924a61e",
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "source": "The Verge",
-      "published": "2026-09-23T22:45:00+00:00",
-      "topic": "AI overview",
-      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories."
-    },
-    {
-      "id": "d3441858b1eb9b419c78db4d",
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "source": "The Verge",
-      "published": "2026-09-23T22:30:00+00:00",
-      "topic": "Products & tools",
-      "summary": "It's time once again for Meta's annual September product launch event, and\nThe Verge\nis on the ground in Menlo Park to cover the show live. Meta\nsays that\ntoday's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about\nin a recent essay\nabout AI, smart glasses, and more."
-    },
-    {
-      "id": "48a9d95577c8df726a1eb330",
-      "title": "Anthropic says its biology lab has already found something big",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T22:17:39+00:00",
-      "topic": "Models & research",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
-    },
-    {
-      "id": "7863c4c666f333fd1fcd0f1c",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "source": "TechCrunch",
-      "published": "2026-09-23T19:31:28+00:00",
-      "topic": "Business",
-      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-13T20:04:19.917845+00:00",
+      "checked": "2026-10-14T00:50:57.366439+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-13T20:04:19.917845+00:00",
+      "checked": "2026-10-14T00:50:57.366439+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-13T20:04:19.917845+00:00",
+      "checked": "2026-10-14T00:50:57.366439+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-13T20:04:19.917845+00:00"
+  "updated": "2026-10-14T00:50:57.366439+00:00"
 }
