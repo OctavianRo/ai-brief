@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "b31543fcd7d1501be961df37",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge",
+      "published": "2026-10-17T13:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "In recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp\ntold\nTechCrunch\nthat it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking ticket …"
+    },
+    {
       "id": "fdd4c6f578d6ab89d343a0d6",
       "title": "Replit is no longer working with Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -2690,33 +2699,24 @@
       "published": "2026-09-27T20:46:36+00:00",
       "topic": "Models & research",
       "summary": "Music startup\nThoughtful Things\nhas just launched the Kickstarter campaign for its first instrument,\nEngram\n. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds."
-    },
-    {
-      "id": "32f206d5a41c91737a18fef1",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "source": "TechCrunch",
-      "published": "2026-09-27T20:34:28+00:00",
-      "topic": "AI overview",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-17T13:27:06.232625+00:00",
+      "checked": "2026-10-17T16:49:52.612314+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-17T13:27:06.232625+00:00",
+      "checked": "2026-10-17T16:49:52.612314+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-17T13:27:06.232625+00:00",
+      "checked": "2026-10-17T16:49:52.612314+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-17T13:27:06.232625+00:00"
+  "updated": "2026-10-17T16:49:52.612314+00:00"
 }
