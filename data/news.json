@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "fcf73aabe3e37fa7f99807ec",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "published": "2026-10-17T18:48:08+00:00",
+      "topic": "Models & research",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+    },
+    {
       "id": "b31543fcd7d1501be961df37",
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
@@ -2690,33 +2699,24 @@
       "published": "2026-09-28T08:06:22+00:00",
       "topic": "Policy & safety",
       "summary": "MIT Technology Review Explains\n: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here\n."
-    },
-    {
-      "id": "566a52e15e047c95713b9d7a",
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "source": "The Verge",
-      "published": "2026-09-27T20:46:36+00:00",
-      "topic": "Models & research",
-      "summary": "Music startup\nThoughtful Things\nhas just launched the Kickstarter campaign for its first instrument,\nEngram\n. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-17T16:49:52.612314+00:00",
+      "checked": "2026-10-17T20:04:50.417538+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-17T16:49:52.612314+00:00",
+      "checked": "2026-10-17T20:04:50.417538+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-17T16:49:52.612314+00:00",
+      "checked": "2026-10-17T20:04:50.417538+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-17T16:49:52.612314+00:00"
+  "updated": "2026-10-17T20:04:50.417538+00:00"
 }
