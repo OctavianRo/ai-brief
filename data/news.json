@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "16eddc2105cf8883d0ab644d",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "published": "2026-10-18T20:37:40+00:00",
+      "topic": "AI overview",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund."
+    },
+    {
       "id": "35cd62faf12b8e71eb0b92fd",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
@@ -2690,33 +2699,24 @@
       "published": "2026-09-28T14:00:00+00:00",
       "topic": "Products & tools",
       "summary": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies that every other company runs on — it makes important platform tools like Jira and Trello that allow people to organize and manage big teams, create shared databases of company information, and generally allow work to happen."
-    },
-    {
-      "id": "651e659be31fd0320edfa31b",
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "source": "TechCrunch",
-      "published": "2026-09-28T14:00:00+00:00",
-      "topic": "Business",
-      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-18T20:04:25.834281+00:00",
+      "checked": "2026-10-18T23:54:24.146052+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-18T20:04:25.834281+00:00",
+      "checked": "2026-10-18T23:54:24.146052+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-18T20:04:25.834281+00:00",
+      "checked": "2026-10-18T23:54:24.146052+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-18T20:04:25.834281+00:00"
+  "updated": "2026-10-18T23:54:24.146052+00:00"
 }
