@@ -1,13 +1,22 @@
 {
   "articles": [
     {
+      "id": "a608b97bceb1e7261a121c27",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T01:27:03+00:00",
+      "topic": "Policy & safety",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+    },
+    {
       "id": "68a6b53f34def307ff2f22bd",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
       "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "source": "TechCrunch",
       "published": "2026-10-19T23:39:38+00:00",
-      "topic": "Business",
-      "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude."
+      "topic": "AI overview",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
     },
     {
       "id": "e6f1ae44f641af38a03dee81",
@@ -16,7 +25,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T22:49:27+00:00",
       "topic": "Policy & safety",
-      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at…"
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology."
     },
     {
       "id": "4de91e1540639e75e1428207",
@@ -25,7 +34,7 @@
       "source": "TechCrunch",
       "published": "2026-10-19T22:04:28+00:00",
       "topic": "Products & tools",
-      "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+      "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
     },
     {
       "id": "85ed69736e92d20ff74d7e20",
@@ -2690,33 +2699,24 @@
       "published": "2026-09-29T05:13:43+00:00",
       "topic": "Business",
       "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
-    },
-    {
-      "id": "5e6a557ab2681a8e228d4453",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "source": "TechCrunch",
-      "published": "2026-09-28T23:39:20+00:00",
-      "topic": "Models & research",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-20T00:59:56.662725+00:00",
+      "checked": "2026-10-20T07:08:14.519110+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-20T00:59:56.662725+00:00",
+      "checked": "2026-10-20T07:08:14.519110+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-20T00:59:56.662725+00:00",
+      "checked": "2026-10-20T07:08:14.519110+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-20T00:59:56.662725+00:00"
+  "updated": "2026-10-20T07:08:14.519110+00:00"
 }
