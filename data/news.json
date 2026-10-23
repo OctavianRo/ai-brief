@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "0e6b7b9249b2f756123357b0",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "published": "2026-10-22T22:08:24+00:00",
+      "topic": "Business",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+    },
+    {
+      "id": "5eee804247a435ab2dffe426",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge",
+      "published": "2026-10-22T21:51:25+00:00",
+      "topic": "Models & research",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model,\ncalled Canva Craft\n, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to\nan…"
+    },
+    {
+      "id": "c8127c2e57511fe8aa99e119",
+      "title": "Designing an AI serving harness built to last",
+      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-22T21:17:29+00:00",
+      "topic": "Models & research",
+      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift."
+    },
+    {
+      "id": "32b3170e24109d9a6879a006",
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "source": "The Verge",
+      "published": "2026-10-22T20:32:05+00:00",
+      "topic": "Models & research",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like\nThe Verge\n- but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape entire sites,\" James…"
+    },
+    {
       "id": "264af0525447e45c75f4bb6b",
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
@@ -35,6 +71,24 @@
       "published": "2026-10-22T18:43:53+00:00",
       "topic": "Models & research",
       "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
+    },
+    {
+      "id": "ee144e79e7d9cf2133686f07",
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "source": "The Verge",
+      "published": "2026-10-22T18:15:00+00:00",
+      "topic": "Products & tools",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies?"
+    },
+    {
+      "id": "5ddee939d5fa55a3d6e1a343",
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "source": "The Verge",
+      "published": "2026-10-22T18:00:00+00:00",
+      "topic": "Products & tools",
+      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells\nThe Verge\n."
     },
     {
       "id": "c7b5ab6ad70c88c97d83a535",
@@ -2645,78 +2699,24 @@
       "published": "2026-10-02T08:00:00+00:00",
       "topic": "Models & research",
       "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a programming glitch."
-    },
-    {
-      "id": "f64457ccef72c364445dea11",
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "source": "TechCrunch",
-      "published": "2026-10-01T21:08:11+00:00",
-      "topic": "Products & tools",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
-    },
-    {
-      "id": "6740c72e272a106e86ee57be",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "source": "The Verge",
-      "published": "2026-10-01T19:47:51+00:00",
-      "topic": "Models & research",
-      "summary": "Guided Vision is\nlaunching in Gemini Live\non compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and…"
-    },
-    {
-      "id": "bc70948c064d091d7bc9d08c",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "source": "TechCrunch",
-      "published": "2026-10-01T19:21:53+00:00",
-      "topic": "Products & tools",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
-    },
-    {
-      "id": "7f938778420c03adc731bb05",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "source": "TechCrunch",
-      "published": "2026-10-01T18:14:42+00:00",
-      "topic": "Policy & safety",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
-    },
-    {
-      "id": "54b535ddb7e24cf91da59068",
-      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-      "source": "TechCrunch",
-      "published": "2026-10-01T17:50:19+00:00",
-      "topic": "AI overview",
-      "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
-    },
-    {
-      "id": "d4606327912a54d05e3ee2ed",
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "source": "The Verge",
-      "published": "2026-10-01T17:12:21+00:00",
-      "topic": "Policy & safety",
-      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and\nRolling Stone\nparent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features,\nas reported earlier by\nReuters\n. US District Judge Amit Mehta takes Google's side\nin a ruling on Wednesday\n, writing that PMC and Chegg's…"
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-22T21:10:38.410472+00:00",
+      "checked": "2026-10-23T00:22:53.746047+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-22T21:10:38.410472+00:00",
+      "checked": "2026-10-23T00:22:53.746047+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-22T21:10:38.410472+00:00",
+      "checked": "2026-10-23T00:22:53.746047+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-22T21:10:38.410472+00:00"
+  "updated": "2026-10-23T00:22:53.746047+00:00"
 }
