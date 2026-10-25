@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "9a814be9eb368823251ceec6",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "published": "2026-10-25T16:57:32+00:00",
+      "topic": "Business",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+    },
+    {
       "id": "a18a7851efbde35c1b2abb7e",
       "title": "The hottest AI wearables and gadgets you should know about",
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-03T14:31:56+00:00",
       "topic": "Policy & safety",
       "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in\nThe Atlantic\n."
-    },
-    {
-      "id": "3c49c40e0ec38e267dc70e67",
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "published": "2026-10-03T14:00:00+00:00",
-      "topic": "Products & tools",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-10-25T14:46:46.987743+00:00",
+      "checked": "2026-10-25T18:06:03.266644+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-10-25T14:46:46.987743+00:00",
+      "checked": "2026-10-25T18:06:03.266644+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-10-25T14:46:46.987743+00:00",
+      "checked": "2026-10-25T18:06:03.266644+00:00",
       "error": null
     }
   ],
-  "updated": "2026-10-25T14:46:46.987743+00:00"
+  "updated": "2026-10-25T18:06:03.266644+00:00"
 }
