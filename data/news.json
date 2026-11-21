@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "7289e21f33e265e97a89457e",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "published": "2026-11-21T21:37:10+00:00",
+      "topic": "Products & tools",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+    },
+    {
       "id": "d15566b2aef3b460300ba5fc",
       "title": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -2690,33 +2699,24 @@
       "published": "2026-10-30T17:38:04+00:00",
       "topic": "AI overview",
       "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During\nan earnings call on Thursday\n, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier…"
-    },
-    {
-      "id": "235bb524b25e5166740043aa",
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "source": "TechCrunch",
-      "published": "2026-10-30T17:00:00+00:00",
-      "topic": "Hardware",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
     }
   ],
   "sources": [
     {
       "source": "TechCrunch",
-      "checked": "2026-11-21T17:51:56.877867+00:00",
+      "checked": "2026-11-21T23:41:54.321399+00:00",
       "error": null
     },
     {
       "source": "The Verge",
-      "checked": "2026-11-21T17:51:56.877867+00:00",
+      "checked": "2026-11-21T23:41:54.321399+00:00",
       "error": null
     },
     {
       "source": "MIT Technology Review",
-      "checked": "2026-11-21T17:51:56.877867+00:00",
+      "checked": "2026-11-21T23:41:54.321399+00:00",
       "error": null
     }
   ],
-  "updated": "2026-11-21T17:51:56.877867+00:00"
+  "updated": "2026-11-21T23:41:54.321399+00:00"
 }
